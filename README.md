@@ -605,6 +605,11 @@ my_data.reverse()
 2. [Machine Learning](https://amzn.to/3RdiFK3) by Tom Mitchell
 3. [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://amzn.to/3LiVgD2) by Chip Huyen
 
+### 67) Explain Linear Regression, Logistic Regression, Decision Tree and Random Forest.? [[src]](https://medium.com/@nirajan_DataAnalyst/machine-learning-interview-questions-836387341559)
+- Linear Regression: It predicts a continuous output based on input features, assuming a linear relationship between them. Example: Predicting house prices based on features like size, location, and number of bedrooms.
+- Logistic Regression: It is used for binary classification, estimating the probability of an event occurring. Example: Predicting whether a customer will churn based on their behavior.
+- Decision Tree: Hierarchical tree-like structure for classification and regression tasks, dividing data based on feature values. Example: Predicting whether a loan applicant is high, medium, or low risk based on income, credit score, and other factors.
+
 ## Contributions
 Contributions are most welcomed.
  1. Fork the repository.
