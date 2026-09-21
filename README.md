@@ -112,7 +112,10 @@ Many winning solutions to data science competitions are ensembles. However, in r
 
 Boosting and bagging are similar, in that they are both ensembling techniques, where a number of weak learners (classifiers/regressors that are barely better than guessing) combine (through averaging or max vote) to create a strong learner that can make accurate predictions. Bagging means that you take bootstrap samples (with replacement) of your data set and each sample trains a (potentially) weak learner. Boosting, on the other hand, uses all data to train each learner, but instances that were misclassified by the previous learners are given more weight so that subsequent learners give more focus to them during training. [[src]](https://www.quora.com/Whats-the-difference-between-boosting-and-bagging)
 
-### 67) Explain Linear Regression, Logistic Regression, Decision Tree and Random Forest.? [[src]](https://medium.com/@nirajan_DataAnalyst/machine-learning-interview-questions-836387341559)
+### Explain Linear Regression, Logistic Regression, Decision Tree and Random Forest?
+
+[[src]](https://medium.com/@nirajan_DataAnalyst/machine-learning-interview-questions-836387341559)
+
 - Linear Regression: It predicts a continuous output based on input features, assuming a linear relationship between them. Example: Predicting house prices based on features like size, location, and number of bedrooms.
 - Logistic Regression: It is used for binary classification, estimating the probability of an event occurring. Example: Predicting whether a customer will churn based on their behavior.
 - Decision Tree: Hierarchical tree-like structure for classification and regression tasks, dividing data based on feature values. Example: Predicting whether a loan applicant is high, medium, or low risk based on income, credit score, and other factors.
